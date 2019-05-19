@@ -1,3 +1,9 @@
 pages:
+  home:
+    title: Home
   api:
     title: API Document
+  getting-started:
+    title: Getting Started
+  about-recorder:
+    title: About Recorder

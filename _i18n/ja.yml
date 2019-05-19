@@ -1,3 +1,9 @@
 pages:
+  home:
+    title: Home
   api:
     title: APIドキュメント
+  getting_started:
+    title: はじめ方
+  about_recorder:
+    title: シナリオ作成の留意点
