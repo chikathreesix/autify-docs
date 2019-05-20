@@ -6,7 +6,7 @@
 
 ## Chrome Extensionのインストール
 
-ご登録いただいたメールアドレスでChrome Storeにログインして頂き、[こちら](https://chrome.google.com/webstore/detail/autify-recorder/jggibfiodonlmkjbmlooehabjldddbgn?authuser=1)からChrome Extensionのインストールをお願い致します。
+ご登録いただいたメールアドレスでChrome Storeにログインして頂き、[こちら](https://chrome.google.com/webstore/detail/autify-recorder/jggibfiodonlmkjbmlooehabjldddbgn)からChrome Extensionのインストールをお願い致します。
 
 こちらのページは現在Developer releaseのため、ご登録いただいたアカウントでChrome Storeにログイン頂かないと404エラーが表示されてしまいます。
 
