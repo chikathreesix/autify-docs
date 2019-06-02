@@ -4,6 +4,8 @@
 
 招待メールのリンクをクリックして、ユーザー登録を行なってください。招待メールが届いていない場合は[弊社サポートチーム](javascript:Intercom('show'))までご連絡ください。
 
+パスワードはアルファベット大文字、アルファベット小文字、数字、記号から３種類以上使用し、８文字以上となるように設定してください。
+
 ## Chrome Extensionのインストール
 
 ご登録いただいたメールアドレスでChrome Storeにログインして頂き、[こちら](https://chrome.google.com/webstore/detail/autify-recorder/jggibfiodonlmkjbmlooehabjldddbgn)からChrome Extensionのインストールをお願い致します。
