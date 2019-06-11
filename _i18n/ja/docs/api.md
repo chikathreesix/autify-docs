@@ -1,6 +1,7 @@
 # APIドキュメント
 
-API ドキュメントは以下の URL に移動しました。
+API ドキュメントは別のページに移動いたしました。
+下記ページからご確認お願いします。
 <p>
-  <a href="https://github.com/autifyhq/autify-api" target="_blank">API ドキュメント</a>
+  <a href="https://autifyhq.github.io/autify-api/" target="_blank">API ドキュメント</a>
 </p>
