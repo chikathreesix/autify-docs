@@ -7,5 +7,7 @@ pages:
     title: Getting Started
   about-recorder:
     title: About Recorder
+  release_notes:
+    title: Release Notes
   roadmap:
     title: Roadmap

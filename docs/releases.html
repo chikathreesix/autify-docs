@@ -1,0 +1,21 @@
+---
+layout: page
+title: pages.release_notes.title
+nav_order: 3
+permalink: /releases
+---
+
+<h1>{% t pages.release_notes.title %}</h1>
+
+{% for post in site.posts %}
+<div class="post">
+  <header>
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <p>{{ post.content | strip_html | truncate: 150 }}</p>
+  </header>
+</div>
+{% endfor %}

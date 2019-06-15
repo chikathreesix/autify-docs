@@ -7,5 +7,7 @@ pages:
     title: はじめ方
   about_recorder:
     title: シナリオ作成の留意点
+  release_notes:
+    title: リリースノート
   roadmap:
-    title: 開発予定機能
+    title: ロードマップ
