@@ -21,6 +21,7 @@ languages: ["en", "ja"]
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+exclude_from_localizations: ["assets"]
 
 # Enable or disable the site search
 search_enabled: true
@@ -36,5 +37,9 @@ color_scheme: nil
 # Google Analytics Tracking (optional)
 ga_tracking: UA-135929481-2
 
+paginate: 5
+paginate_path: "/releases/page:num/"
+
 plugins:
+  - jekyll-paginate
   - jekyll-multiple-languages-plugin
