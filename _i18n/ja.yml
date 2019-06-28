@@ -11,3 +11,5 @@ pages:
     title: リリースノート
   roadmap:
     title: ロードマップ
+  assertions:
+    title: アサーションについて
