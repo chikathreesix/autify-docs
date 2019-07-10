@@ -1,15 +1,20 @@
+---
 pages:
-  home:
-    title: Home
-  api:
-    title: API Document
-  getting-started:
-    title: Getting Started
   about-recorder:
     title: About Recorder
+  api:
+    title: API Document
+  assertions:
+    title: Assersions
+  getting-started:
+    title: Getting Started
+  home:
+    title: Home
   release_notes:
     title: Release Notes
+  about_recorder:
+    title: Things to Note on Scenario Creation
+  getting_started:
+    title: Getting Started
   roadmap:
     title: Roadmap
-  assertions:
-    title: Assertions
