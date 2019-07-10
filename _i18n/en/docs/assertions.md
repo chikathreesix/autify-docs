@@ -11,7 +11,7 @@ Location Should Contain | Verifies that the current URL contains the specified t
 
 ## Assertions for element
 
-キーワード名 | 概要 | Arguments | Target element types
+Keyword name | Overview | Arguments | Target element types
 --- | --- | --- | ---
 Element Should Be Visible | Verifies that the element is visible | N/A | All
 Element Should Not Be Visible | Verifies that the element is not visible | N/A | All
