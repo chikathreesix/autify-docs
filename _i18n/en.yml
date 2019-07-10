@@ -11,3 +11,5 @@ pages:
     title: Release Notes
   roadmap:
     title: Roadmap
+  assertions:
+    title: Assertions
